@@ -1,6 +1,6 @@
 # FlowGuard
 
-A production-grade rate limiting and API gateway service built in Go. This service acts as a reverse proxy that enforces rate limits, validates API keys, and forwards requests to upstream services with comprehensive monitoring and observability.
+A rate limiting and API gateway service built in Go. Acts as a reverse proxy that enforces rate limits, validates API keys, and forwards requests to upstream services with comprehensive monitoring and observability.
 
 ---
 
