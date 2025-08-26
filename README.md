@@ -181,7 +181,7 @@ graph LR
 - **Rate Limit Headers**: Client-facing headers for rate limit status and reset times
 - **High Performance**: Redis-based distributed rate limiting with atomic operations
 - **Docker Support**: Complete containerization with multi-stage builds
-- **☸Kubernetes Ready**: Production-ready deployment with health checks and graceful shutdown
+- **Kubernetes Ready**: Production-ready deployment with health checks and graceful shutdown
 - **Configurable**: Environment-based configuration for all settings
 - **Comprehensive Testing**: Unit tests with mocking and integration tests
 - **Observability**: Metrics, logs, and rate limit information endpoints
